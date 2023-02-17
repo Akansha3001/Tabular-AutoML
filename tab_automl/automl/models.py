@@ -49,6 +49,7 @@ single_model_dict = {
         "MeanShift": MeanShift,
         "OPTICS": OPTICS,
         "SpectralClustering": SpectralClustering,
-        "GaussianMixture": GaussianMixture
+        "GaussianMixture": GaussianMixture,
+        "HierarchicalDivisiveClustering": HierarchicalDivisiveClustering
     }
 }
